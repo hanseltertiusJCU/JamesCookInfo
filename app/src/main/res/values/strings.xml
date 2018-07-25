@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">James Cook Info</string>
+    <string name="jcu_desc">The Singapore campus of James Cook University is fully owned by James Cook University Australia, which is ranked in the top 2%* of universities in the world.
+        James Cook University Australia established its Singapore campus in 2003 as part of its expressed intent of internationalising its activities and offers a suite of university level programs at the
+        Singapore campus covering the areas of Business, Information Technology, Psychology, Education, Accounting, Arts, Aquaculture, Environmental Science, Games Design, Tourism and Hospitality.
+        James Cook University offers Higher Degree by Research programs# such as Doctor of Philosophy, Master of Philosophy and pathways to a higher degree.
+        Additionally, the campus offers courses at the pre-university level, specifically designed to provide pathways for students who are unable to immediately meet university entrance standards.
+        The Singapore campus of James Cook University is located at Sims Drive. The campus provides students with access to a full range of facilities and services to support their learning.
+        These include lecture and seminar rooms, library and associated study facilities, computer laboratories, financial lab and access to a variety of sporting facilities.</string>
+    <string name="jcu_address">149 Sims Drive, Singapore 387380</string>
+    <string name="jcu_hours">6am to 12 midnight daily including Public Holidays
+        &#xD; &#xA;*Important: Students are required to produce their student card and register with the Security Officer
+        if they intend to stay in or enter the campus after 11pm.</string>
+    <string name="jcu_contact">T: +65 6709 3888
+&#xD; &#xA;F: +65 6709 3889
+&#xD; &#xA;Email: admissions-singapore@jcu.edu.au
+&#xD; &#xA;Mailing Address: 149 Sims Drive, Singapore 387380</string>
 </resources>
